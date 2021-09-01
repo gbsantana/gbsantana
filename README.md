@@ -1,4 +1,4 @@
-### Hey there! I am using Whatsapp👋
+## Hey there! I am using Whatsapp👋
 
 <div>
   <a href="https://github.com/gbsantana">
